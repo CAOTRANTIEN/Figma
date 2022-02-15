@@ -1,5 +1,6 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;   
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100̀;   
 }
 *{
     box-sizing: border-box;
@@ -566,7 +567,6 @@ position: relative;
 }
 .input_1 input[type="text"]{
     font-size: 27px;
-    cursor: pointer;
     width: 100%;
     height: 70px;
     border-radius: 50px;
